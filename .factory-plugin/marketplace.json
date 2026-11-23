@@ -1,0 +1,14 @@
+{
+  "name": "phinite",
+  "description": "Phinite tools for Factory Droid: build, ship, run and debug Phinite agent graphs.",
+  "owner": {
+    "name": "Phinite CIQ use-case team"
+  },
+  "plugins": [
+    {
+      "name": "phinite",
+      "source": "./",
+      "description": "Build, ship, run and debug Phinite agent graphs from Droid."
+    }
+  ]
+}
